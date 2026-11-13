@@ -83,7 +83,7 @@ TIP: If you see a question on the discussion boards you know how to answer, we s
 | Panambur Rao | Flight |
 | Akhil Ravichandran | Taxi | https://csc8104-taxi-akhil-karthikeyan-ra-dev.apps.rm3.7wse.p1.openshiftapps.com/q/swagger-ui/
 | Athulya Reji | Hotel | https://ncl-csc-8104-athulya-reji-git-athulyaraj-dev.apps.rm2.thpm.p1.openshiftapps.com
-| Yogiraj Sadhan | Flight |
+| Yogiraj Sadhan | Flight | https://csc-8104-enterprise-java-yogiraj-sadhan-yogiraj-max-dev.apps.rm2.thpm.p1.openshiftapps.com/q/swagger-ui/#/
 | Scaria Saji | Taxi |
 | Yanshu Saroha | Hotel |
 | Ali Shaikh | Flight | https://csc-8104-ali-sohail-shaikh-alisohailshaikh-dev.apps.rm2.thpm.p1.openshiftapps.com/
